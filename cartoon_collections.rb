@@ -12,3 +12,4 @@ end
 end
 (find_the_cheese(contains_cheddar)) .to eq 'cheddar'
 end
+(find_the_cheese(no cheese_cheese)) .to eq nil
