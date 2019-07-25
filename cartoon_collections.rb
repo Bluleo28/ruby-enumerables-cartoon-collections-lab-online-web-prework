@@ -4,8 +4,11 @@ result = summon_captain_planet(veggies)
 end
 result = summon_captain_planet(fruits)
 end
-
-def find_the_cheese# code an argument here
-  # the array below is here to help
-  cheese_types = ["cheddar", "gouda", "camembert"]
+result = summon_captain_planet(veggies)
+end
+(long_planeteer_calls(calls_long)) .to eq(true)
+end
+(long_planeteer_calls)(calls_short)) .to eq(false)
+end
+(find_the_cheese(contains_cheddar)) .to eq 'cheddar'
 end
